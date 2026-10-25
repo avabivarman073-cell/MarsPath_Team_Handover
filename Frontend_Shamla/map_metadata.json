@@ -1,0 +1,33 @@
+{
+  "image": "landing_area_ortho_preview.png",
+  "width": 2001,
+  "height": 2001,
+  "crs": "ESRI:103885",
+  "bounds": {
+    "xmin": 4589872.0,
+    "ymin": 1092304.0,
+    "xmax": 4591873.0,
+    "ymax": 1094305.0
+  },
+  "transform": [
+    1.0,
+    0.0,
+    4589872.0,
+    0.0,
+    -1.0,
+    1094305.0
+  ],
+  "navigation": {
+    "width": 401,
+    "height": 401,
+    "cell_size_m": 5,
+    "blocked_value": 255
+  },
+  "landing": {
+    "x": 4590872.743,
+    "y": 1093304.013,
+    "row": 200,
+    "col": 200,
+    "cost": 1
+  }
+}
